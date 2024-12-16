@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# angular-blog
-A blog project created with Angular 
+
 =======
 # AngularBlog
 
